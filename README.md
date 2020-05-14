@@ -9,7 +9,6 @@ MOVEMENTS- by arrow keys
 
 POINTS
 ADD- On taking one step in right direction 2 points are added to score.
-
 SUBTRACT- On colliding with stones (asteroids or comets), 10 points are deducted and on colliding with lightning 5 points are reduced.
 
 GAME-OVER
